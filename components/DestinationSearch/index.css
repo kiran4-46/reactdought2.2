@@ -1,0 +1,14 @@
+/* Write your CSS here */
+.bgContainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.heading {
+  font-family: 'Roboto';
+  font-size: 40px;
+}
+.inputStyle {
+  border-radius: 8px;
+}
